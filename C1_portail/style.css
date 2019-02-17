@@ -1,0 +1,78 @@
+/****************************** GENERAL *******************************/
+html {
+
+}
+
+body {
+
+}
+
+h1 {
+
+}
+
+
+/****************************** ALL CONTENT ************************************/
+
+/****************************** CONTENT CONNEXION ******************************/
+#connexion_container {
+    display:inline-block;
+}
+#form_connexion {
+    border: 0.1em solid black;
+    padding:1em;
+}
+.input_connexion {
+    margin-bottom:1em;
+}
+/****************************** CONTENT INTERFACE ******************************/
+
+/****************************** Espace user */
+#espace_user {
+    display:block;
+    color:red;
+}
+
+/****************************** Administrateur de port */
+#abody_container {
+    display:inline-block;
+}
+
+#afeatures_container {
+    display:inline-block;
+}
+
+/****************************** Propriétaire de bateaux */
+#pbody_container {
+    display:inline-block;
+}
+
+#pfeatures_container {
+    display:inline-block;
+    padding-top: 0.5em;
+}
+
+.input_feature {
+    margin-left:1%;
+}
+
+
+button {
+    margin-top:1em;
+    display:block;
+}
+
+.feature {
+    white-space: nowrap;
+    margin-top:1em;
+    margin-bottom:1em;
+    border: 1px solid black;
+    padding: 1.5em;
+}
+
+/******************************** UI components */
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
