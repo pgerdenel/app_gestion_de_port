@@ -5,7 +5,8 @@ Interface HTML/CSS/PHP/JS/AJAX
 -administrateur de port
 -propriétaire de bateau
 
--Gestion des certificats (RSA/AES)<br/>
+-Gestion des certificats (RSA/AES)
+
 -Gestion des utilisateurs
 -Gestion des ports
 -Coordinateur des entités
