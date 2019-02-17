@@ -1,11 +1,12 @@
 # gestion_de_port
 Gestion d'un port
 
-**Interface HTML/CSS/PHP/JS/AJAX**  
-  -administrateur de port  
-  -propriétaire de bateau  
+**Front-end HTML/CSS/PHP/JS/AJAX**  
+  -interface administrateur de port  
+  -interface propriétaire de bateau  
 
-**Gestion des certificats (RSA/AES)**  
-**Gestion des utilisateurs**  
-**Gestion des ports**  
-**Coordinateur des entités**  
+**Back-end Java**  
+-Gestion des certificats (RSA/AES)  
+-Gestion des utilisateurs  
+-Gestion des ports  
+-Coordinateur des entités  
