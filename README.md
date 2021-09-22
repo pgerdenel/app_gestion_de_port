@@ -8,4 +8,6 @@
 - gestion des certificats (RSA/AES)  
 - gestion des utilisateurs  
 - gestion des ports  
-- goordinateur des entités  
+- coordinateur des entités  
+
+(public version)
